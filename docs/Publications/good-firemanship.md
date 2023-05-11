@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 title: Good Firemanship
+pagination_next: null
+pagination_prev: null
 ---
  
  

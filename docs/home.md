@@ -2,6 +2,8 @@
 sidebar_position: 1
 title: Home
 slug: /
+pagination_next: null
+pagination_prev: null
 ---
 
 # Welcome to the steam crew portal

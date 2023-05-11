@@ -1,10 +1,11 @@
 ---
 sidebar_position: 3
 title: Kit List
+pagination_next: null
+pagination_prev: null
 ---
 
-:::important
-Washing of overalls.
+:::important Washing of overalls.
 
 Use non bio washing powder to retain fire retarding property of the cotton. Someone on a heritage railway went underneath the ashpan and a piece of ash set fire to his overalls which had been washed in biological powder
 
@@ -34,9 +35,9 @@ Do not use fabric conditioner or overalls will turn purple rather than fade to l
 14. [Flat cap](https://www.ebay.co.uk/itm/394305088491?var=662823385530)
 15. [Bib and brace](https://www.ebay.co.uk/itm/175360043614?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=WzR_Bji5QYm&sssrc=2349624&ssuid=qquvTs-2QpG&var=&widget_ver=artemis&media=FB_MSG)
     
-    :::important
-    If legs are too long on the bib and brace tuck them into elastics which also save them get ragged and catching on anything.    
-    :::
+:::important Don't Trip
+If legs are too long on the bib and brace tuck them into elastics which also save them get ragged and catching on anything.    
+:::
     
 16. [Boiler Suit](https://www.armyandworkwear.com/click-cotton-drill-boilersuit-in-navy-blue/)
 17. [Messenger Bag](https://www.ebay.co.uk/itm/175479388820?var=474794523415)
@@ -46,10 +47,9 @@ Do not use fabric conditioner or overalls will turn purple rather than fade to l
 21. [Mens External Steel Toe Cap Safety Boots](https://www.ebay.co.uk/itm/370803360514?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=IRWfoMJfSTq&sssrc=2349624&ssuid=qquvTs-2QpG&var=640082255527&widget_ver=artemis&media=FB_MSG)
 22. 100% Cotton T-Shirt, No Red, Yellow or Green for obvious reasons
     
-    :::important
-    Avoid wearing a jumper underneath any clothing even in winter as you will overheat 🥵    
-    :::
-    
+:::important Jumpers
+Avoid wearing a jumper underneath any clothing even in winter as you will overheat 🥵    
+:::    
 
 ## Basic Hand Care
 
@@ -65,8 +65,8 @@ Fluids- always bring at least 1 litre of water or squash in a plastic bottle or 
 
 ## Gloves
 
-:::important
-💡 Glove discipline - rigger or black gloves must not be used for oily jobs or that will be transferred to handrails and controls and everyone picks it up
+:::important Glove discipline 
+Rigger or black gloves must not be used for oily jobs or that will be transferred to handrails and controls and everyone picks it up
 :::
 
 Rigger gloves can be worn for firing but they don’t have a good grip on the shovel. Useful for handling fire irons.
