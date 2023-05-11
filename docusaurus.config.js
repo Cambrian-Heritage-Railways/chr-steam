@@ -77,7 +77,7 @@ const config = {
       },
       footer: {
         style: 'dark',        
-        copyright: `Copyright © ${new Date().getFullYear()} Cambrian Heritage Railways, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Cambrian Heritage Railways`,
       },
       prism: {
         theme: lightCodeTheme,

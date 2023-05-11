@@ -23,11 +23,11 @@ Do not use fabric conditioner or overalls will turn purple rather than fade to l
 8. Hi viz bib
 9. Pea Jacket 
     
-    ![t8jdj46b.bmp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04cff3ac-3016-4ee8-bb62-d71bbd9bdc44/t8jdj46b.bmp)
+    ![t8jdj46b.bmp](/img/kitlist/t8jdj46b.bmp)
     
 10. Prep coat for coupling/uncoupling or other dirty jobs. Again 100% cotton, preferably blue but some ex BR ones are about in orange.
     
-    ![ykw4poo8.bmp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d96bb135-9ad0-4179-8d06-eb5e3caa8c2b/ykw4poo8.bmp)
+    ![ykw4poo8.bmp](/img/kitlist/ykw4poo8.bmp)
     
 11. [EU Chore Work Shirt](https://www.ebay.co.uk/itm/385270404913)
 12. [Navy portwest mayo trousers](https://www.ebay.co.uk/itm/144391131612)
@@ -71,12 +71,12 @@ Rigger or black gloves must not be used for oily jobs or that will be transferre
 
 Rigger gloves can be worn for firing but they don’t have a good grip on the shovel. Useful for handling fire irons.
 
-![gwo33015.bmp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11bd2d39-a911-4d15-9483-7849040f781a/gwo33015.bmp)
+![gwo33015.bmp](/img/kitlist/gwo33015.bmp)
 
 PVC gloves - use for coupling and uncoupling, oiling up, lighting up and engine cleaning.  [https://www.toolstation.com/pvc-knit-wrist-gloves/p44494](https://www.toolstation.com/pvc-knit-wrist-gloves/p44494)
 
-![cmc3uzaf.bmp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/625d446c-5ec0-4605-a550-c390446c8c3f/cmc3uzaf.bmp)
+![cmc3uzaf.bmp](/img/kitlist/cmc3uzaf.bmp)
 
 Mechanics gloves thin black- have used them for firing good feel and take heat reasonably.
 
-![a9tlg4wu.bmp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7241f41-c676-4d34-bafe-4605c0ce355e/a9tlg4wu.bmp)
+![a9tlg4wu.bmp](/img/kitlist/a9tlg4wu.bmp)
