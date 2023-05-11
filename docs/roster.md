@@ -3,10 +3,6 @@ sidebar_position: 2
 title: Roster
 ---
 
-:::info Download the latest roster
-[Click Here](../downloads/latest-roster.pdf)
-:::
-
 Below is the latest Cambrian Heritage Railways roster, this is provided by the Operations team, any changes or alterations should be requested via the Locomotive Inspector for Firemen & Cleaners.
 
 ![Page 1](/img/roster/1.png)
